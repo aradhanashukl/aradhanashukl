@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aradhana--shukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aradhana-shukla-3a3b50253/?skipRedirect=true)
 [![Gmail](https://img.shields.io/badge/Gmail-shuklaradhana37-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklaradhana37@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![Research](https://img.shields.io/badge/Published-Research%20Paper-6366f1?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
 
 </div>
