@@ -21,7 +21,7 @@
 class Aradhana:
     role        = "AI Intern @ BNP Paribas | Final Year B.E. (E&TC)"
     location    = "Pune, Maharashtra 🇮🇳"
-    graduating  = "June 2026"
+    graduated  = "June 2026"
     interests   = ["LLMs & Prompt Engineering", "ML Systems", "Distributed Backends", "DSA"]
     superpower  = "Turning complex systems into clean, working code"
     currently   = "Building AI-powered tools for global banking workflows"
@@ -139,7 +139,6 @@ class Aradhana:
 <div align="center">
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-shuklaradhana37%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklaradhana37@gmail.com)
-[![Call Me](https://img.shields.io/badge/Call%20Me-%2B91%207776075643-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917776075643)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aradhana-shukla-3a3b50253/?skipRedirect=true)
 
 </div>
