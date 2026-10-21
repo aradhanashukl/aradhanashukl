@@ -126,7 +126,7 @@ class Aradhana:
 | 🎯 | Highlight |
 |----|-----------|
 | 📝 | **Published research paper** on ML-based Alzheimer's detection (DementiaBank) |
-| 💻 | **400+ DSA problems** solved on LeetCode & GeeksforGeeks (Arrays, Trees, Graphs, DP) |
+| 💻 | **500+ DSA problems** solved on LeetCode & GeeksforGeeks (Arrays, Trees, Graphs, DP) |
 | 🏅 | Participated in **Smart India Hackathon 2023** and **BNP Paribas Hackathon** |
 | 📊 | Completed **Data Analytics Workshop** on visualization & statistical analysis |
 
